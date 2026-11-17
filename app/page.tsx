@@ -318,13 +318,20 @@ const Home = () => {
               researchers, institutions, and partners interested in healthcare
               research and responsible AI innovation.
             </p>
-            <Link
+            {/* <Link
               href="/contact"
               className="mt-9 inline-flex rounded-full bg-white px-8 py-4 text-sm font-semibold text-black transition hover:bg-blue-100"
             >
               Start a Conversation{" "}
               <FaArrowRight className=" mt-1 ml-1 inline-block" />
-            </Link>
+            </Link> */}
+            <a
+  href="https://wa.me/2349043895573?text=Hello%20Aviron%20Team%2C%20I%20visited%20your%20website%20and%20would%20like%20to%20make%20an%20enquiry."
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Start a Conversation<FaArrowRight className=" mt-1 ml-1 inline-block" />
+</a>
           </div>
         </div>
       </section>
