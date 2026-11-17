@@ -68,7 +68,7 @@ const Home = () => {
               <div className="relative text-center">
                 <div className="mx-auto mb-5 flex h-24 w-24 items-center justify-center">
                   <Image
-                    src="/images/aviron.png"
+                    src="/images/aviron.PNG"
                     alt="Aviron logo"
                     width={96}
                     height={96}

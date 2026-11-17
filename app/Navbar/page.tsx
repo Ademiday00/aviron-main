@@ -13,7 +13,7 @@ const Navbar = () => {
       <div className="flex items-center justify-between px-5 py-4 sm:px-8 lg:px-12">
         <Link href="/" className="shrink-0">
           <Image
-            src="/images/aviron.png"
+            src="/images/aviron.PNG"
             alt="Aviron logo"
             width={100}
             height={40}
