@@ -334,7 +334,7 @@ const Home = () => {
         <div className="mx-auto flex max-w-7xl flex-col justify-between gap-8 md:flex-row md:items-center">
           <Link href="/" className="flex items-center gap-3">
             <Image
-              src="/images/aviron.png"
+              src="/images/aviron.PNG"
               alt="Aviron logo"
               width={80}
               height={32}
