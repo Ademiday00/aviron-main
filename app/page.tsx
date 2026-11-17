@@ -42,7 +42,7 @@ const Home = () => {
               </Link>
 
               <Link
-                href="/contact"
+                href="/contacts"
                 className="rounded border border-white/20 px-7 py-4 text-sm font-semibold transition hover:border-blue-400 hover:text-blue-400"
               >
                 Work With Us
