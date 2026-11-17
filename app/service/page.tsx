@@ -183,7 +183,7 @@ export default function ServicesPage() {
           </p>
 
           <Link
-            href="/contact"
+            href="/contacts"
             className="mt-8 inline-flex items-center gap-3 rounded-full bg-white px-7 py-3 font-semibold text-black transition hover:bg-blue-400"
           >
             Connect with Aviron <FaArrowRight />
