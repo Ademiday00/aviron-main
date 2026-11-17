@@ -24,7 +24,7 @@ const Home = () => {
 
             <h1 className="max-w-3xl text-3xl font-semibold leading-tight tracking-tight sm:text-5xl lg:text-7xl">
               Advancing Healthcare Through
-              <span className="text-blue-400"> Research</span>
+              <span className="text-blue-400"> Research and innovation</span>
             </h1>
 
             <p className="mt-7 max-w-xl text-base leading-8 text-gray-400 sm:text-lg">
