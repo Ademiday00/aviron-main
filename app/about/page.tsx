@@ -36,7 +36,7 @@ export default function AboutPage() {
         <div className="mx-auto grid max-w-7xl items-center gap-12 md:grid-cols-2">
           <div className="flex justify-center">
             <Image
-              src="/images/aviron.png"
+              src="/images/aviron.PNG"
               alt="Aviron logo"
               width={280}
               height={280}
@@ -55,7 +55,7 @@ export default function AboutPage() {
 
             <p className="mt-6 leading-8 text-gray-400">
               Aviron is a healthcare research and creating ideas that may
-              support healthcare professionals and institutions. We explore2 the
+              support healthcare professionals and institutions. We explore the
               use of artificial intelligence to address healthcare challenges.
               Our work includes machine learning, deep learning, and research
               into intelligent systems that can support healthcare
