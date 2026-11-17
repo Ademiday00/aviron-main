@@ -30,7 +30,7 @@ const Home = () => {
             <p className="mt-7 max-w-xl text-base leading-8 text-gray-400 sm:text-lg">
               At Aviron, we discover the potential of artificial intelligence,
               machine learning, and scientific research to address healthcare
-              challenges and advance healthcare findings.
+              challenges and healthcare findings.
             </p>
 
             <div className="mt-10 flex flex-wrap gap-4">
